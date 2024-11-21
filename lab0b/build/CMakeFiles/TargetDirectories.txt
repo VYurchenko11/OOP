@@ -1,0 +1,3 @@
+C:/C++/OOP_Projects/lab0b/build/CMakeFiles/lab0b.dir
+C:/C++/OOP_Projects/lab0b/build/CMakeFiles/edit_cache.dir
+C:/C++/OOP_Projects/lab0b/build/CMakeFiles/rebuild_cache.dir
